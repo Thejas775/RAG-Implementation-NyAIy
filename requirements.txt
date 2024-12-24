@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+langchain_chroma
+sentence-transformers
+chromadb
+pypdf
+python-magic
+nest_asyncio

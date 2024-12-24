@@ -8,3 +8,4 @@ chromadb
 pypdf
 python-magic
 nest_asyncio
+pysqlite3-binary
